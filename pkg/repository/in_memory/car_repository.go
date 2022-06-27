@@ -2,7 +2,7 @@ package in_memory
 
 import (
 	"context"
-	"repository/cars"
+	"repository/pkg/cars"
 )
 
 type CarRepository struct {
